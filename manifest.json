@@ -1,0 +1,10 @@
+{
+  "name": "My Space",
+  "short_name": "My Space",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "description": "Your personal space for things worth keeping."
+}
